@@ -7,7 +7,7 @@ body {
     color: orange;
 }
 
-section {
+.flexibc {
     display: flex;
     margin-bottom: 100px;
 }
@@ -40,4 +40,33 @@ section {
     background-image: url(/img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.exp-item {
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 20px;
+    box-shadow: 10px 10px 30px gray;
+    border-radius: 10px;
+
+}
+
+
+.exp-area {
+    background-image: url(/img/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack-web {
+    border-left: 7px solid tomato;
+}
+
+#baby-web-developer {
+    border-left: 7px solid orange;
+}
+
+footer p {
+    text-align: center;
 }
