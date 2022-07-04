@@ -70,3 +70,8 @@ body {
 footer p {
     text-align: center;
 }
+
+#margin {
+    margin-left: 70px;
+    font-size: 30px;
+}
