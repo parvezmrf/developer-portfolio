@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 .orange-color {
@@ -32,4 +33,10 @@ section {
 .topb {
     background-image: url(/img/top-banner1.png);
     background-repeat: no-repeat;
+}
+
+.dream-big {
+    background-image: url(/img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
