@@ -32,12 +32,12 @@ body {
 }
 
 .topb {
-    background-image: url(/img/top-banner1.png);
+    background-image: url(img/top-banner1.png);
     background-repeat: no-repeat;
 }
 
 .dream-big {
-    background-image: url(/img/dream-bg.png);
+    background-image: url(img/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 }
@@ -54,7 +54,7 @@ body {
 
 
 .exp-area {
-    background-image: url(/img/exp-bg.png);
+    background-image: url(img/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
 }
